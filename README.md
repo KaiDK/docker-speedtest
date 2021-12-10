@@ -6,4 +6,4 @@ for speedtest-cli see: https://www.speedtest.net/de/apps/cli
 
 ## How to use
 
-docker run -it --rm --name=speedtest kaidk/speedtest:1.0
+`docker run -it --rm --name=speedtest kaidk/speedtest:1.0`
